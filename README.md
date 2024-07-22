@@ -5,3 +5,4 @@ I have modified and enhanced this code to cater specifically to stock management
 
 The purpose of this project is to assist DTP Mining, a division of Bouygues Construction, in accurately estimating the consumption of all components in the rolling chain of D9. 
 Furthermore, this project can be easily adapted to estimate the monthly consumption of any parts on any model.
+ gkt and kibali are the projects developped on each minig site
